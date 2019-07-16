@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sound Recorder</string>
+    <string name="record_area">RECORD AREA</string>
+    <string name="record">RECORD</string>
+    <string name="stop_record">STOP RECORD</string>
+    <string name="play">PLAY</string>
+    <string name="stop">STOP</string>
+    <string name="play_area">PLAY AREA</string>
+</resources>
